@@ -1,1 +1,0 @@
-# Takvim-Saat-SQLite
